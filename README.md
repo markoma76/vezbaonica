@@ -1,0 +1,3 @@
+# vezbaonica
+
+ove vezbam JavaScript
