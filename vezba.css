@@ -1,0 +1,61 @@
+
+
+#ide{
+    margin-left: 40%;
+}
+
+#leg{
+    margin: auto;
+    width: 60%;
+    height:150px;
+    border:4px solid #456985;
+    border-radius: 10px;
+}
+#osnovni{
+    margin-top: -10px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 1.5cm;
+}
+#kontejner{
+    margin: 20px;
+    margin-left: auto;margin-right: auto;
+    width:62%;
+    height: 200px;
+    
+   
+}
+#legp1{
+    position: relative;
+    float: left;
+    width:45%;
+    height: 150px;
+    border:4px solid cyan;
+    border-radius: 10px;
+
+}
+
+#legp2{
+    position: relative;
+    float: right;
+    width:45%;
+    height: 150px;
+    border:4px solid magenta;
+    border-radius: 10px;
+
+}
+
+ #pomocni1,#pomocni2{
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 102%;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 1cm;
+
+}
+
+.telekom{
+    width: 500px;
+    margin-left: 50%;
+}
